@@ -1,5 +1,5 @@
-Ασσ
-
+; Λύση άσκησης εξεταστικής Εργαστηρίου ΟΑΥΣ του Εαρ. 2024
+; ΠΡΟΣΟΧΗ! Υπάρχουν κάποια λάθη.
 title eksetasi
 assume cs: kodikas, ds: dedomena
 kodikas segment
