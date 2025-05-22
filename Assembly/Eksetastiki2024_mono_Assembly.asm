@@ -1,3 +1,5 @@
+; Λύση άσκησης Assembly εξεταστικής Εργαστηρίου ΟΑΥΣ του Εαρ. 2024
+; ΠΡΟΣΟΧΗ! Υπάρχουν κάποια λάθη.
 title eksetasi
 assume cs: kodikas, ds: dedomena, ss: soros
 kodikas segment
